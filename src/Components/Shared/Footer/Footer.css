@@ -1,0 +1,19 @@
+.footer-area li{
+    padding-bottom: 10px;
+}
+
+.social-media .icon{
+    height: 40px;
+    width: 40px;
+    color:goldenrod;
+    border-radius: 50%;
+    border: 1px solid goldenrod;
+    padding: 10px;
+}
+.social-media .active-icon{
+    background-color: goldenrod;
+    color:white;
+}
+.footer-area{
+    min-height: 100vh;
+}
