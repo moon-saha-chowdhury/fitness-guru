@@ -1,8 +1,8 @@
+# Fitness Guru Full Stack Web App
 
 ## Live Preview
  [https://fitness-guru-37c01.web.app](https://fitness-guru-37c01.web.app)
 
-# Fitness Guru Full Stack Web App
 ## About This App
 
 This site is basically about a training center which provide services like swimming training,indoor cycling, yoga ,  special gym classes and so on.
